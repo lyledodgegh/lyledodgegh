@@ -19,4 +19,4 @@ While I've been at Microsoft, I've had a few other roles as well, and here's som
 
 My full work history is available on [LinkedIn](https://linkd.in/lyledodge).
 
-The easiest way to reach me is either via [Twitter](https://twitter.com/lyledodge) or via email at [lyle.dodge@microsoft.com](mailto://lyle.dodge@microsoft.com?Subject=Introduction via GitHub Page Link).
+The easiest way to reach me is either via [Twitter](https://twitter.com/lyledodge) or via email at [lyle.dodge@microsoft.com](mailto://lyle.dodge@microsoft.com?Subject=Introduction%20via%20GitHub%20Page%20Link).
