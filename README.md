@@ -4,7 +4,7 @@ I'm passionate about leading teams working on solving customer problems, where a
 
 In my current role in the Applications + Infrastructure Strategy Team in Microsoft WorldWide Commercial Business, I'm responsible for the following:
 
-- Cloud Native Global Blacks - servant leader, year over year role design (function, measurement, compensation)
+- Cloud Native Global Black Belts - servant leader, year over year role design (function, measurement, compensation)
 - Linux + Cloud Native Strategy Lead - forward looking investments around the Linux stack + ecosystem on Azure, select ISV sales partnerships
 - Sales strategy, customer escalations, field enablement (both Microsoft and Red Hat) for Azure Red Hat OpenShift
 - Collaboration with Microsoft's Open Source Programs office on key internal initiatives across the Sales + Engineering organizations
