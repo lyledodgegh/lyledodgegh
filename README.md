@@ -29,7 +29,7 @@ The easiest way to reach me is either via [Twitter](https://twitter.com/lyledodg
 2019-2021 - *Director Open Source + Cloud Native Strategy, World Wide Commercial Business*
 
 - 4 Year Microsoft Executive Briefing Center Award Winner (189.9 NSAT, $1.405B total influenced revenue) on the sole topic of Microsoft's own internal IT engineering organization transformation from 42k+ on premises servers across multiple data centers to Azure, including the engineering system changes, people and org changes, financial decisions, and cultural change.
-- Linux + Cloud Native Strategy lead for Microsoft World Wide Commercial Business Apps + Infra STU (think front half of sales pipeline)
+- Linux + Cloud Native Strategy lead for Microsoft World Wide Commercial Business Apps + Infra STU (front half of typical sales pipeline)
 - Own partnership for STU with Azure Kubernetes Service, Azure Red Hat OpenShift, upstream CNCF, Open Source Product Groups
 - Role owner for Cloud Native Global Black Belt discipline (Specialists + Technical Specialists)
 - Partner with Azure Linux Product Group on strategic initiatives internally and with our Linux partners ahead of GA
