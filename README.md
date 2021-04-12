@@ -1,15 +1,6 @@
-I'm an x-integration consultant with a varied background across lots of technology and business roles - from data center management, database administration, packaged software engineering, website development, software release engineering, across on premises and Azure, to business manager / chief of staff, and go to market development. I've worked in companies spanning many industries - manufacturing, financial services, public sector, technology consulting services,  web design, and health care. I've spent time in all sizes of companies from 25 people up to my current employer, Microsoft. I've enjoyed being an individual contributor, a manager and a manager of managers. My classical education is a BS in Computer Science from Kettering University and an MBA from the University of Michigan Ross School of Business.
+I'm an x-integration consultant with a varied background across lots of technology and business roles - from data center management, database administration, packaged software engineering, website development, software release engineering, across on premises and Azure, to business manager / chief of staff, and go to market development. I've worked in companies spanning many industries - manufacturing, financial services, public sector, technology consulting services,  web design, and health care. I've spent time in all sizes of companies from 25 people up to my current employer, Accenture. I've enjoyed being an individual contributor, a manager and a manager of managers. My classical education is a BS in Computer Science from Kettering University and an MBA from the University of Michigan Ross School of Business.
 
 I'm passionate about leading teams working on solving customer problems, where a technology, architecture, and often business mix together, and I love doing a bit of evangelism along the way.
-
-In my current role in the Applications + Infrastructure Strategy Team in Microsoft WorldWide Commercial Business, I'm responsible for the following:
-
-- Cloud Native Global Black Belts - servant leader, year over year role design (function, measurement, compensation)
-- Linux + Cloud Native Strategy Lead - forward looking investments around the Linux stack + ecosystem on Azure, select ISV sales partnerships
-- Sales strategy, customer escalations, field enablement (both Microsoft and Red Hat) for Azure Red Hat OpenShift
-- Collaboration with Microsoft's Open Source Programs office on key internal initiatives across the Sales + Engineering organizations
-- Partner with the broader App Specialist community in the Specialist Team Unit (front half of typical sales pipeline) and the Cloud Solution Architect community in the Customer Success Unit (back half of the typical sales pipeline).
-- In my spare time I evangelize the work that our field engineers do for customers in my [Azure in the Enterprise](https://azureintheenterprise.com/) channel on YouTube, with select videos published to the [Azure in the Enterprise playlist](https://www.youtube.com/playlist?list=PLLasX02E8BPDwxoN1T18bYfbzGwP555rR) on the main [Azure YouTube channel](https://www.youtube.com/user/windowsazure). Full list of content is at [azureintheenterprise.com](https://azureintheenterprise.com).
 
 The easiest way to reach me is either via [Twitter](https://twitter.com/lyledodge) or [LinkedIn](https://linkd.in/lyledodge).
 
@@ -23,6 +14,10 @@ The easiest way to reach me is either via [Twitter](https://twitter.com/lyledodg
 - **Kettering University** (formerly General Motors Engineering + Management Institute) - *Bachelors of Science in Computer Science*
 
 ### Career
+
+#### Accenture
+
+2021-CURRENT - *Associate Director, Accenture Microsoft Business Group*
 
 #### Microsoft
 
@@ -85,7 +80,7 @@ The Accenture and Avanade Solutions Showcase at Microsoft (http://www.showcase.a
 - Responsible for meeting with Microsoft Industry + Engineering teams along with Accenture Industry teams to build jointly funded proof of concepts and working alpha prototypes for further investment or external events
 - Presented at trade shows, multi-day conferences and 1:1 customer briefings
 
-2006-2011 - *Architect for www.whatsnewat.com*
+2008-2011 - *Architect for www.whatsnewat.com*
 
  What's New @ was an Avanade SaaS offering I fully envisioned and created where employees are encouraged to share company news and promotions on their social networks, while marketing enjoys the analytics of click through analysis and a larger, viral marketing force. Launched in late 2010, the site and services ran on the Microsoft Azure platform. Particular challenges on the project were outsourcing of Android and iOS native clients while the underlying platform APIs were being built, and coordination with in-house offshore development teams for the new Windows Phone 7 platform. We were in the initial stages for filing patent paperwork when an employee showed it off at a conference, invaliding our patent application process.
 
