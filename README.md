@@ -20,9 +20,13 @@ The easiest way to reach me is either via [Twitter](https://twitter.com/lyledodg
 2021-CURRENT - *Associate Director, Accenture Microsoft Business Group*
 
 - Manage the Accenture Microsoft Business Group North American Modern Engineering Studio
-- Organize the quarterly Microsoft Accenture Technical Board and execute special projects
-- Expand the Microsoft practice withing Accenture
-- Identify and incubate with joint customers on private preview Azure initiatives
+- Manage the quarterly Microsoft Accenture Technical Board and execute special projects
+- Expand the Microsoft practice within Accenture
+- Identify and incubate with joint customers on early joint Engineering projects with Microsoft
+
+2021-CURRENT - *Biopharmaceutical Industry Client - Open Source Subject Matter Expert*
+
+- Helping client launch an open source reference implementation in March 2022 across the United States and Europe
 
 #### Microsoft
 
