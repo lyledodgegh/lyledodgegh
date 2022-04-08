@@ -19,6 +19,7 @@ The easiest way to reach me is either via [Twitter](https://twitter.com/lyledodg
 
 2021-CURRENT - *Associate Director, Accenture Microsoft Business Group*
 
+- Arc Managed Edge Engineering workstream
 - Manage the Accenture Microsoft Business Group North American Modern Engineering Studio
 - Manage the quarterly Microsoft Accenture Technical Board and execute special projects
 - Expand the Microsoft practice within Accenture
