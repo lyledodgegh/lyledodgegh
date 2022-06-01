@@ -2,6 +2,8 @@ I'm an x-integration consultant with a varied background across lots of technolo
 
 I'm passionate about leading teams working on solving customer problems, where a technology, architecture, and often business mix together, and I love doing a bit of evangelism along the way.
 
+I'm currently working on the intersection of Azure Arc and the cloud native ecosystem - namely Arc managed edge Kubernetes, and leveraging the Azure Arc, Azure Lighthouse and Managed Service Provider ecosystem to transform our clients. 
+
 The easiest way to reach me is either via [Twitter](https://twitter.com/lyledodge) or [LinkedIn](https://linkd.in/lyledodge).
 
 ## Extended Resume / CV
@@ -19,15 +21,15 @@ The easiest way to reach me is either via [Twitter](https://twitter.com/lyledodg
 
 2021-CURRENT - *Associate Director, Accenture Microsoft Business Group*
 
-- Arc Managed Edge Engineering workstream
+- Incubate a cross company Arc Managed Edge (Azure Arc + CNCF ecosystem) engineering focused workstream
 - Manage the Accenture Microsoft Business Group North American Modern Engineering Studio
-- Manage the quarterly Microsoft Accenture Technical Board and execute special projects
-- Expand the Microsoft practice within Accenture
-- Identify and incubate with joint customers on early joint Engineering projects with Microsoft
+- Expand the Microsoft practice within Accenture by working across Accenture's Cloud First organization and Avanade
+- Identify and incubate early joint engineering projects with Microsoft's Commercial Software Engineering organization
+- Manage the quarterly Microsoft Accenture Technical Board and execute special projects across Accenture/Avanade/Microsoft
 
-2021-CURRENT - *Biopharmaceutical Industry Client - Open Source Subject Matter Expert*
+2021-CURRENT - *Biopharmaceutical Industry Client - Open Source SME*
 
-- Helping client launch an open source reference implementation in March 2022 across the United States and Europe
+- Helping TransCelerate BioPharma, Inc. launch [DDF](https://www.transceleratebiopharmainc.com/initiatives/digital-data-flow/), an open source reference implementation for clinical trial data standards.
 
 #### Microsoft
 
