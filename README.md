@@ -19,7 +19,7 @@ The easiest way to reach me is either via [Twitter](https://twitter.com/lyledodg
 
 #### Accenture
 
-2021-CURRENT - *Associate Director, Accenture Microsoft Business Group*
+2021-CURRENT - *Managing Director, Cloud First Accenture Microsoft Business Group*
 
 - Incubate a cross company Arc Managed Edge (Azure Arc + CNCF ecosystem) engineering focused workstream
 - Manage the Accenture Microsoft Business Group North American Modern Engineering Studio
