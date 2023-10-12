@@ -19,12 +19,13 @@ The easiest way to reach me is either via [Twitter](https://twitter.com/lyledodg
 
 #### Accenture
 
-2021-CURRENT - *Managing Director, Cloud First Accenture Microsoft Business Group*
+2021-CURRENT - *Managing Director, Cloud First Accenture Microsoft Business Group (AMBG)*
 
-- Incubate a cross company Arc Managed Edge (Azure Arc + CNCF ecosystem) engineering focused workstream
+- AMBG Engineering Lead, Applications + Infrastructure functional lead
 - Manage the Accenture Microsoft Business Group North American Modern Engineering Studio
+- Incubate a cross company Arc Managed Edge (Azure Arc + CNCF ecosystem) engineering focused workstream
 - Expand the Microsoft practice within Accenture by working across Accenture's Cloud First organization and Avanade
-- Identify and incubate early joint engineering projects with Microsoft's Commercial Software Engineering organization
+- Identify and incubate early joint engineering projects with Microsoft's Industry Solutions Engineering organization
 - Manage the quarterly Microsoft Accenture Technical Board and execute special projects across Accenture/Avanade/Microsoft
 
 2021-CURRENT - *Biopharmaceutical Industry Client - Open Source SME*
