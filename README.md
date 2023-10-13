@@ -22,13 +22,21 @@ The easiest way to reach me is either via [Twitter](https://twitter.com/lyledodg
 2021-CURRENT - *Managing Director, Cloud First Accenture Microsoft Business Group (AMBG)*
 
 - AMBG Engineering Lead, Applications + Infrastructure functional lead
-- Manage the Accenture Microsoft Business Group North American Modern Engineering Studio
+- Manage the AMBG North American Modern Engineering Studio
 - Incubate a cross company Arc Managed Edge (Azure Arc + CNCF ecosystem) engineering focused workstream
 - Expand the Microsoft practice within Accenture by working across Accenture's Cloud First organization and Avanade
 - Identify and incubate early joint engineering projects with Microsoft's Industry Solutions Engineering organization
 - Manage the quarterly Microsoft Accenture Technical Board and execute special projects across Accenture/Avanade/Microsoft
 
-2021-CURRENT - *Biopharmaceutical Industry Client - Open Source SME*
+2023 - CURRENT - *Multiple Global Travel Clients*
+
+- Azure Engineering liaison for global travel workload modernization, architect
+
+2023 - CURRENT - *Multiple Healthcare and Quick Serve Retail Clients*
+
+- Subject Matter Expert for Cloud Native at the Edge on the Microsoft Platform (AKS/AKS-EE/Azure Stack HCI/Azure Arc/Kubernetes)
+
+2021 - *Biopharmaceutical Industry Client - Open Source SME*
 
 - Helping TransCelerate BioPharma, Inc. launch [DDF](https://www.transceleratebiopharmainc.com/initiatives/digital-data-flow/), an open source reference implementation for clinical trial data standards.
 
