@@ -22,6 +22,7 @@ The easiest way to reach me is either via [Twitter](https://twitter.com/lyledodg
 2021-CURRENT - *Managing Director, Cloud First Accenture Microsoft Business Group (AMBG)*
 
 - AMBG Engineering Lead, Applications + Infrastructure functional lead
+- SME for AI Assisted SDLC with GitHub
 - Manage the AMBG North American Modern Engineering Studio
 - Incubate a cross company Arc Managed Edge (Azure Arc + CNCF ecosystem) engineering focused workstream
 - Expand the Microsoft practice within Accenture by working across Accenture's Cloud First organization and Avanade
@@ -35,6 +36,7 @@ The easiest way to reach me is either via [Twitter](https://twitter.com/lyledodg
 2023 - CURRENT - *Multiple Healthcare and Quick Serve Retail Clients*
 
 - Subject Matter Expert for Cloud Native at the Edge on the Microsoft Platform (AKS/AKS-EE/Azure Stack HCI/Azure Arc/Kubernetes)
+- Azure SME for Epic on Azure Workload for Healthcare Hospital System
 
 2021 - *Biopharmaceutical Industry Client - Open Source SME*
 
