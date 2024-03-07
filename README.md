@@ -1,10 +1,8 @@
-I'm an x-integration consultant with a varied background across lots of technology and business roles - from data center management, database administration, packaged software engineering, website development, software release engineering, across on premises and Azure, to business manager / chief of staff, and go to market development. I've worked in companies spanning many industries - manufacturing, financial services, public sector, technology consulting services,  web design, and health care. I've spent time in all sizes of companies from 25 people up to my current employer, Accenture. I've enjoyed being an individual contributor, a manager and a manager of managers. My classical education is a BS in Computer Science from Kettering University and an MBA from the University of Michigan Ross School of Business.
+I'm the Engineering Lead for the Microsoft Business Group at Accenture, where I focus on joint engineering at our largest clients and working closely with Microsoft on future product roadmaps between our organizations. I'm an x-integration consultant with a varied background across lots of technology and business roles - from data center management, database administration, packaged software engineering, website development, software release engineering, across on premises and Azure, to business manager / chief of staff, and go to market development. I've worked in companies spanning many industries - health care, manufacturing, financial services, public sector, and more. I've spent time in all sizes of companies from 25 people up to my current employer, Accenture. I've enjoyed being an individual contributor, a manager and a manager of managers. My classical education is a BS in Computer Science from Kettering University and an MBA from the University of Michigan Ross School of Business.
 
-I'm passionate about leading teams working on solving customer problems, where a technology, architecture, and often business mix together, and I love doing a bit of evangelism along the way.
+I'm passionate about leading teams working on solving customer problems, where technology, architecture, and business mix together, and I love doing a bit of evangelism along the way.
 
-I'm currently working on the intersection of Azure Arc and the cloud native ecosystem - namely Arc managed edge Kubernetes, and leveraging the Azure Arc, Azure Lighthouse and Managed Service Provider ecosystem to transform our clients. 
-
-The easiest way to reach me is either via [Twitter](https://twitter.com/lyledodge) or [LinkedIn](https://linkd.in/lyledodge).
+The easiest way to reach me is either via [LinkedIn](https://linkd.in/lyledodge).
 
 ## Extended Resume / CV
 
@@ -19,15 +17,13 @@ The easiest way to reach me is either via [Twitter](https://twitter.com/lyledodg
 
 #### Accenture
 
-2021-CURRENT - *Managing Director, Cloud First Accenture Microsoft Business Group (AMBG)*
+2021-CURRENT - *Managing Director*
 
-- AMBG Engineering Lead, Applications + Infrastructure functional lead
-- SME for AI Assisted SDLC with GitHub
-- Manage the AMBG North American Modern Engineering Studio
-- Incubate a cross company Arc Managed Edge (Azure Arc + CNCF ecosystem) engineering focused workstream
-- Expand the Microsoft practice within Accenture by working across Accenture's Cloud First organization and Avanade
-- Identify and incubate early joint engineering projects with Microsoft's Industry Solutions Engineering organization
-- Manage the quarterly Microsoft Accenture Technical Board and execute special projects across Accenture/Avanade/Microsoft
+- Global Engineering Lead for the Microsoft Business Group
+- North American Applications + Infrastructure Functional Lead for Microsoft Business Group 
+- Engineering Lead for GitHub partnership
+- Close working group with Azure Edge Engineering on Arc Managed Edge roadmap
+- Identification of joint engineering led clients with Microsoft Industry Solutions Engineering
 
 2023 - CURRENT - *Multiple Global Travel Clients*
 
