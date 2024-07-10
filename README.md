@@ -22,17 +22,23 @@ The easiest way to reach me is either via [LinkedIn](https://linkd.in/lyledodge)
 - Global Engineering Lead for the Microsoft Business Group
 - North American Applications + Infrastructure Functional Lead for Microsoft Business Group 
 - Engineering Lead for GitHub partnership
-- Close working group with Azure Edge Engineering on Arc Managed Edge roadmap
-- Identification of joint engineering led clients with Microsoft Industry Solutions Engineering
+
+2024 - CURRENT - *Healthcare System*
+
+- Azure Cloud Foundations co-lead for client migrating from on premises to Azure for Epic and non-Epic workloads
 
 2023 - CURRENT - *Multiple Global Travel Clients*
 
-- Azure Engineering liaison for global travel workload modernization, architect
+- Azure Engineering liaison for global travel workload modernization
+- Enterprise architect for PaaS modernization
 
-2023 - CURRENT - *Multiple Healthcare and Quick Serve Retail Clients*
+2023 - *Healthcare System*
+
+- Azure Subject Matter Expert for Epic on Azure Workload for Healthcare Hospital System
+
+2022-2023
 
 - Subject Matter Expert for Cloud Native at the Edge on the Microsoft Platform (AKS/AKS-EE/Azure Stack HCI/Azure Arc/Kubernetes)
-- Azure SME for Epic on Azure Workload for Healthcare Hospital System
 
 2021 - *Biopharmaceutical Industry Client - Open Source SME*
 
