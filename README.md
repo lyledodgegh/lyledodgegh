@@ -25,7 +25,7 @@ The easiest way to reach me is either via [LinkedIn](https://linkd.in/lyledodge)
 
 2024 - CURRENT - *Healthcare System*
 
-- Azure Cloud Foundations co-lead for client migrating from on premises to Azure for Epic and non-Epic workloads
+- Azure Cloud Foundations architect + delivery lead for client migrating from on premises to Azure for Epic and non-Epic workloads
 
 2023 - CURRENT - *Multiple Global Travel Clients*
 
@@ -34,7 +34,7 @@ The easiest way to reach me is either via [LinkedIn](https://linkd.in/lyledodge)
 
 2023 - *Healthcare System*
 
-- Azure Subject Matter Expert for Epic on Azure Workload for Healthcare Hospital System
+- Azure Subject Matter Expert for resiliency workstream of Epic on Azure for client
 
 2022-2023
 
