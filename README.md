@@ -25,7 +25,7 @@ The easiest way to reach me is either via [LinkedIn](https://linkd.in/lyledodge)
 
 2024 - CURRENT - *Healthcare System*
 
-- Azure Cloud Foundations architect + delivery lead for client migrating from on premises to Azure for Epic and non-Epic workloads
+- Azure Cloud Foundations Lead for Epic, non-Epic and custom application migrations Azure
 
 2023 - CURRENT - *Multiple Global Travel Clients*
 
