@@ -4,6 +4,12 @@ I'm passionate about leading teams working on solving customer problems, where t
 
 The easiest way to reach me is either via [LinkedIn](https://linkd.in/lyledodge).
 
+Want to see some stats and stories about our Accenture usage of the GitHub platform including GitHub Copilot? Check these articles out:
+
+- [Research: Quantifying GitHub Copilot’s impact in the enterprise with Accenture](https://github.blog/news-insights/research/research-quantifying-github-copilots-impact-in-the-enterprise-with-accenture/)
+- [Accenture Customer Story on GitHub.com](https://github.com/customer-stories/accenture)
+- [GitHub Copilot: the AI pair programmer for today and tomorrow](https://www.youtube.com/watch?v=AAT4zCfzsHI) - Dan Shocke from Accenture starting at about 2 minutes in
+
 ## Extended Resume / CV
 
 [](#resume)
