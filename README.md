@@ -26,27 +26,32 @@ Want to see some stats and stories about our Accenture usage of the GitHub platf
 2021-CURRENT - *Managing Director*
 
 - Global Engineering Lead for the Microsoft Business Group
+- Executive Sponsor for GitHub Partnership
 - North American Applications + Infrastructure Functional Lead for Microsoft Business Group 
-- Engineering Lead for GitHub partnership
 
-2024 - CURRENT - *Healthcare System*
+2024-CURRENT - *Logistics Client*
+
+- Lead for Platform Experience of Data & Event Driven Enterprise Platform
+
+2024-CURRENT - *Healthcare System*
 
 - Azure Cloud Foundations Lead for Epic, non-Epic and custom application migrations Azure
+- Advisor to Healthcare, University & Research organizations on combined Azure foundation
 
-2023 - CURRENT - *Multiple Global Travel Clients*
+2023-CURRENT - *Multiple Global Travel Clients*
 
 - Azure Engineering liaison for global travel workload modernization
 - Enterprise architect for PaaS modernization
 
-2023 - *Healthcare System*
+2023-2024 *Healthcare System*
 
 - Azure Subject Matter Expert for resiliency workstream of Epic on Azure for client
 
-2022-2023
+2022-2022 - *Retail Industry*
 
 - Subject Matter Expert for Cloud Native at the Edge on the Microsoft Platform (AKS/AKS-EE/Azure Stack HCI/Azure Arc/Kubernetes)
 
-2021 - *Biopharmaceutical Industry Client - Open Source SME*
+2021-2021 - *Biopharmaceutical Industry Client - Open Source SME*
 
 - Helping TransCelerate BioPharma, Inc. launch [DDF](https://www.transceleratebiopharmainc.com/initiatives/digital-data-flow/), an open source reference implementation for clinical trial data standards.
 
