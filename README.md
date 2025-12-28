@@ -2,13 +2,7 @@ I'm the Engineering Lead for the Microsoft Business Group at Accenture as well a
 
 I'm passionate about leading teams working on solving customer problems, where technology, architecture, and business mix together, and I love doing a bit of evangelism along the way.
 
-The easiest way to reach me is either via [LinkedIn](https://linkd.in/lyledodge).
-
-Want to see some stats and stories about our Accenture usage of the GitHub platform including GitHub Copilot? Check these articles out:
-
-- [Research: Quantifying GitHub Copilot’s impact in the enterprise with Accenture](https://github.blog/news-insights/research/research-quantifying-github-copilots-impact-in-the-enterprise-with-accenture/)
-- [Accenture Customer Story on GitHub.com](https://github.com/customer-stories/accenture)
-- [GitHub Copilot: the AI pair programmer for today and tomorrow](https://www.youtube.com/watch?v=AAT4zCfzsHI) - Dan Shocke from Accenture starting at about 2 minutes in
+The easiest way to reach me is via [LinkedIn](https://linkd.in/lyledodge).
 
 ## Extended Resume / CV
 
@@ -27,11 +21,13 @@ Want to see some stats and stories about our Accenture usage of the GitHub platf
 
 - Global Engineering Lead for the Microsoft Business Group
 - Executive Sponsor for GitHub Partnership
-- North American Applications + Infrastructure Functional Lead for Microsoft Business Group 
+- North American Applications + Infrastructure Functional Lead for Microsoft Business Group
+- Developing capability in global engineering teams around the GitHub plaform in partnership with GitHub
 
 2024-CURRENT - *Logistics Client*
 
-- Lead for Platform Experience of Data & Event Driven Enterprise Platform
+- Developing capability in delivery teams around AI assistance in the SDLC leveraging the GitHub and Anthropic platforms
+- Led Platform Experience of Data & Event Driven Enterprise Platform
 
 2024-CURRENT - *Healthcare System*
 
