@@ -62,9 +62,6 @@ sudo apt-get install python3-full python3-pip -y
 # update all npm packages
 npm install -g npm@latest
 
-# multipass
-sudo snap install multipass
-
 # golang
 wget https://dl.google.com/go/go1.25.5.linux-amd64.tar.gz -O go1.25.5.linux-amd64.tar.gz
 sudo rm -rf /usr/local/go && sudo tar -C /usr/local -xzf go1.25.5.linux-amd64.tar.gz
