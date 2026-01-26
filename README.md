@@ -4,18 +4,18 @@ I'm passionate about leading teams working on solving customer problems, where t
 
 The easiest way to reach me is via [LinkedIn](https://linkd.in/lyledodge).
 
-## Extended Resume / CV
+## Tools
 
-[](#resume)
+- [Email Tools](https://lyledodgegh.github.io/email-tools/) - extract a list of emails from a blob of text, and then format/manipulate that list
 
-### Education
+## Education
 
 - **University of Michigan Ross School of Business** - *Masters of Business Administration*
 - **Kettering University** (formerly General Motors Engineering + Management Institute) - *Bachelors of Science in Computer Science*
 
-### Career
+## Career
 
-#### Accenture
+### Accenture
 
 2021-CURRENT - *Managing Director*
 
@@ -51,7 +51,7 @@ The easiest way to reach me is via [LinkedIn](https://linkd.in/lyledodge).
 
 - Helping TransCelerate BioPharma, Inc. launch [DDF](https://www.transceleratebiopharmainc.com/initiatives/digital-data-flow/), an open source reference implementation for clinical trial data standards.
 
-#### Microsoft
+### Microsoft
 
 2019-2021 - *Director Open Source + Cloud Native Strategy, World Wide Commercial Business*
 
@@ -89,7 +89,7 @@ The easiest way to reach me is via [LinkedIn](https://linkd.in/lyledodge).
 - Drafted key internal communications for General Manager
 - Executed operational work for commitments, priorities, KPIs, financial planning, people and planning across quarterly, mid-year and annual cycles
 
-#### Avanade
+### Avanade
 
 2013-2013 - *Business Manager, Communications, Media & Entertainment, High Technology Industries*
 
@@ -127,7 +127,7 @@ The Accenture and Avanade Solutions Showcase at Microsoft (http://www.showcase.a
 - BizTalk EDI integration to IBM Sterling platform for railroad company  
 - Product Management of multiple features for emergency services realtime communications platform (fire/rescue/911), including requirements gathering from customers, spec writing, prototyping, coordination with development, test and release teams
 
-#### Title Source, Inc (title arm of Quicken Loans)
+### Title Source, Inc (title arm of Quicken Loans)
 
 2006-2007 - *Microsoft BizTalk Architect*
 
@@ -136,7 +136,7 @@ The Accenture and Avanade Solutions Showcase at Microsoft (http://www.showcase.a
 - Achieved BizTalk Certified Architect Certification
 - Achieved Microsoft Certified Solutions Developer Certification
 
-#### Quicken Loans
+### Quicken Loans
 
 2005-2006 - Systems Engineer
 
@@ -147,7 +147,7 @@ The Accenture and Avanade Solutions Showcase at Microsoft (http://www.showcase.a
 - Migration of high transaction systems to the first generation of hardware RAM disks
 - Custom ASP.NET internal website for moving thousands of support tickets to frontline support by automating higher privilege requests
 
-#### VIA Information Tools
+### VIA Information Tools
 
 2004-2005 - *Build + Release Engineer*
 
