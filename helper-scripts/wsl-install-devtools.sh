@@ -63,8 +63,8 @@ sudo apt-get install python3-full python3-pip -y
 npm install -g npm@latest
 
 # golang
-wget https://dl.google.com/go/go1.25.5.linux-amd64.tar.gz -O go1.25.5.linux-amd64.tar.gz
-sudo rm -rf /usr/local/go && sudo tar -C /usr/local -xzf go1.25.5.linux-amd64.tar.gz
+wget https://dl.google.com/go/go1.25.7.linux-amd64.tar.gz -O go1.25.7.linux-amd64.tar.gz
+sudo rm -rf /usr/local/go && sudo tar -C /usr/local -xzf go1.25.7.linux-amd64.tar.gz
 export PATH=$PATH:/usr/local/go/bin
 go version
-rm go1.25.5.linux-amd64.tar.gz
+rm go1.25.7.linux-amd64.tar.gz
