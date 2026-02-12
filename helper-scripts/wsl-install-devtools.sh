@@ -4,6 +4,14 @@
 # update everything first
 sudo apt update -y && sudo apt upgrade -y && sudo apt dist-upgrade -y && sudo apt autoremove -y && sudo apt auto-clean -y
 
+# brew
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+# the post install
+echo >> /home/ubuntu/.bashrc
+echo 'eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv bash)"' >> /home/ubuntu/.bashrc
+eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv bash)"
+sudo apt-get install build-essential gcc
+
 # ms OpenJDK 25
 ubuntu_release=`lsb_release -rs`
 wget https://packages.microsoft.com/config/ubuntu/${ubuntu_release}/packages-microsoft-prod.deb -O packages-microsoft-prod.deb
@@ -32,9 +40,6 @@ npm install -g @github/copilot
 
 # claude
 curl -fsSL https://claude.ai/install.sh | bash
-
-# vscode insiders
-
 
 # docker toolchain
 # Add Docker's official GPG key:
