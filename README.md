@@ -8,6 +8,10 @@ The easiest way to reach me is via [LinkedIn](https://linkd.in/lyledodge).
 
 - [Email Tools](https://lyledodgegh.github.io/email-tools/) - extract a list of emails from a blob of text, and then format/manipulate that list
 
+## Artifacts
+
+- [GitHub Account Types Comparison](https://claude.ai/public/artifacts/7deef5d6-8db2-4562-ac71-e47ba1cec511) - Personal accounts vs Enterprise Managed Users (EMU)
+
 ## Education
 
 - **University of Michigan Ross School of Business** - *Masters of Business Administration*
